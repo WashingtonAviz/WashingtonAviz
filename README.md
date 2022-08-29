@@ -17,7 +17,7 @@ Neste link você também consegue analisar meu know-how em desenvolvimento, pode
 📂 [Pasta de speed videos de alguns sistemas desenvolvidos com alto níveis de complexidade, com Vue.js, Node.js Wordpress e PHP.](https://drive.google.com/file/d/1VAmZl-ADvK4l46JEUFREdv56jDkkmzH5/view?usp=sharing)
 
 ## 🛠 Proficiência - Front-End
-Javascript, HTML, CSS, SASS, HTML5, Vue.js, Vuetify.js, Nuxt.js, Electron, WordPress, Webflow, Padrões PWA e SPA.
+JavaScript, HTML, CSS, SASS, HTML5, Vue.js, Vuetify.js, Nuxt.js, Electron, WordPress, Webflow, Padrões PWA e SPA.
 
 ## ⚙️ Proficiência - Back-End
 Node.js, PostgreSQL, Parse Server, MySQL, GraphQL, Padrão RESTful e Golang.
