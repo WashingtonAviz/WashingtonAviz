@@ -14,7 +14,7 @@ Antes disso, durante 4 anos ajudava uma rede de postos a faturar mais de 1 milh�
 
 Neste link você também consegue analisar meu know-how em desenvolvimento, poder criativo e marketing: [avizvfx.com.br/Contratos](https://avizvfx.com.br/Contratos)
 
-📂 [Pasta de speed videos de alguns sistemas desenvolvidos com alto níveis de complexidade, com Vue.js, Node.js Wordpress e PHP.](https://drive.google.com/drive/u/0/folders/1MEo2aQZe8flxm3QVRQY8fuWW700CB5-I?q=parent:1MEo2aQZe8flxm3QVRQY8fuWW700CB5-I)
+📂 [Pasta de speed videos de alguns sistemas desenvolvidos com alto níveis de complexidade, com Vue.js, Node.js Wordpress e PHP.](https://drive.google.com/drive/folders/1MEo2aQZe8flxm3QVRQY8fuWW700CB5-I)
 
 ## 🛠 Proficiência - Front-End
 JavaScript, HTML, CSS, SASS, HTML5, Vue.js, Vuetify.js, Nuxt.js, Electron, WordPress, Webflow, Padrões PWA e SPA.
