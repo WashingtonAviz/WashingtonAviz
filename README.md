@@ -6,16 +6,6 @@ Itaboraí-RJ.
 
 Atuo em empresas como 🥈 Full Stack Developer Pleno ou 🥇Front End Developer Senior
 
-A 7 anos desenvolvo sistemas, aplicações e sites para diversos segmentos, com média de acesso entre 1.500 a 60mil usuários mês.
-
-🧐⛑️ [É recrutador ? Acesse para analise de minhas referências.](https://avizvfx.com.br/Contratos)
-
-Antes disso, durante 4 anos ajudava uma rede de postos a faturar mais de 1 milhão/mês com marketing (campanhas e arte criativa), gestão de processos, sistemas, contratos e faturamentos.
-
-Neste link você também consegue analisar meu know-how em desenvolvimento, poder criativo e marketing: [avizvfx.com.br/Contratos](https://avizvfx.com.br/Contratos)
-
-📂 [Pasta de speed videos de alguns sistemas desenvolvidos com alto níveis de complexidade, com Vue.js, Node.js Wordpress e PHP.](https://drive.google.com/drive/folders/1MEo2aQZe8flxm3QVRQY8fuWW700CB5-I)
-
 ## 🛠 Proficiência - Front-End
 JavaScript, HTML, CSS, SASS, HTML5, Vue.js, Vuetify.js, Nuxt.js, Electron, WordPress, Webflow, Padrões PWA e SPA.
 
